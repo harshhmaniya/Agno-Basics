@@ -8,7 +8,13 @@ agno = "*"
 duckduckgo-search = "*"
 groq = "*"
 openai = "*"
+pinecone = "*"
+langchain-pinecone = "*"
+langchain = "*"
 langchain-community = "*"
+pypdf = "*"
+langchain-ollama = "*"
+crawl4ai = "*"
 
 [dev-packages]
 
